@@ -95,7 +95,10 @@ endmodule
  RegisterNumber: 25008086
  
 **Logic symbol & Truthtable**
+
 **RTL realization Output:** 
+
+
 <img width="504" height="411" alt="image" src="https://github.com/user-attachments/assets/e797a6b0-7255-4c5c-8b60-f425bd32f840" />
 
 **RTL**
