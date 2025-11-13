@@ -96,13 +96,11 @@ endmodule
  
 **Logic symbol & Truthtable**
 **RTL realization Output:** 
-```
 <img width="504" height="411" alt="image" src="https://github.com/user-attachments/assets/e797a6b0-7255-4c5c-8b60-f425bd32f840" />
-```
+
 **RTL**
-```
 <img width="863" height="263" alt="image" src="https://github.com/user-attachments/assets/04132e95-6a51-4378-96a3-9c1b09a903b1" />
-```
+
 
 
 **Result:**
